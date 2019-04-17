@@ -1,0 +1,9 @@
+bus 20 2 738 649
+windglass 76 148 658 375
+plate 326 575 434 614
+safebelt 471 186 584 308
+backmirror 27 76 86 248
+carlight 86 461 199 561
+carlight 565 450 663 538
+backmirror 639 74 713 208
+logo 333 410 429 560
